@@ -28,7 +28,7 @@ const nuevoAlumno:Alumno2 =
     nombre:'Danilo',
     edad:22,
     nuestraedad() {
-        console.log('Edad dek alumno', this.edad);
+        console.log('Edad del alumno', this.edad);
     },
 }
 
